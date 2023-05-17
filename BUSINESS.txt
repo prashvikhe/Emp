@@ -1,0 +1,9 @@
+DML:
+delete 
+insert
+update
+CRUD :
+Create user
+Read job details
+Update JobDetails
+Delete ADVERTISEMENT

@@ -1,0 +1,48 @@
+Titlle: Employee Recruitment System
+
+Collaborators:Team
+
+Objective:
+In the Recent times,Jobseekers Facing so many problems . and hence to register them selves online,
+to develop this system is to optimize the recuritment process for an organization.
+
+Scope: view organaization requirements and apply for suitable job.the system has facilities 
+where prospective canditates can upload cv,and apply fro job suited to them.
+it also makes it possible fro organizatoins to post their staffing recquirements and view profiles of interested candidatses
+the primary purpose is to develop this system is to optimize the recuritment process for an organization.
+
+
+
+Functional Requirements:
+
+User Login:
+a Jobseeker must be registered with the unidue id or mail with passsword
+Organization logins:
+Company must be registered with the unidue id or mail with passsword to post advert and hirings.
+
+Job advertisement posting:
+the details of the job and posts should be in this section
+
+View Profiles:
+the organization can view the profiles of jobseekers
+
+hiring :
+with matching profile and then will be shortlised as per the organization requirements
+
+deleting the advertisement:
+to delete the advertisement after the hiring and after all process is finished
+
+
+
+Non Functional Requirements:
+Security:when users will use the portal ,must be secured so
+in the way to achive security oprations as 
+
+safety:
+while entering data and privacy is must so safety is required
+
+Reliability:
+the application must be reliable so that to achive the mutiple user count and either run on it
+
+Durability:
+suppose the user is searching for the advirtisements and if any failure is caused then also application musrt be durable to stand .
